@@ -8,7 +8,6 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Acceptance Criteria
 
-
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -28,3 +27,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Notes
 
 Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
+
+https://docs.insomnia.rest/insomnia/get-started
