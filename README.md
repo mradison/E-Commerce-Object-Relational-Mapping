@@ -22,7 +22,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
+https://github.com/mradison/E-Commerce-Object-Relational-Mapping
 
+https://drive.google.com/file/d/1tcWlFR-DfO5_jKERBJG4afDcIoyDwTEx/view
 
 ## Notes
 
